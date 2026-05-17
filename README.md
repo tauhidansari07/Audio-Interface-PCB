@@ -3,7 +3,7 @@
 A custom printed circuit board designed to integrate a Bluetooth converting into 3.5mm jack for devices that doesnt have one and you wanna connect your fav wired earphones or headsets 
 
 ## Technical Details
-* **Core IC:** FM9688 (Power Management / Buck Converter), FSC-BT1026E (blutooth reciver)
+* **Core IC:** FM9688 (Power Management / Buck Converter), FSC-BT1026E (blutooth receiver)
 * **Design Software:** KiCad 
 * **Key Features:** To Get Audio Output For 3.5mm Jack Through Blutooth Low Letency For Gaming Purpose or General Purpose
 
